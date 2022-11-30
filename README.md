@@ -1,4 +1,4 @@
-# venus-topograghy
+# venus-topography
 This is collection of processing tools for the 4km Venus Magellan topography.
 They remove small-scale artifacts, fill missing gaps and turn it into a NetCDF file.
 The initial goal was to create a topography usable by a GCM, but it can serve any general purpose, in particular for numerical modeling.
